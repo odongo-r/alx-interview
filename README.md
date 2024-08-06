@@ -1,2 +1,2 @@
 # alx-interview
-Pascal's Triangle
+Pascal's Triangle using Python
